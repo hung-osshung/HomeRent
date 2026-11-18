@@ -1,0 +1,4 @@
+/vendor/
+/.phpunit.cache/
+/uploads/*
+!uploads/.gitkeep
